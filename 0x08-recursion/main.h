@@ -3,7 +3,7 @@
 
 /**
  * File: main.h
- * Auth: Rock
+ * Auth: Franklin
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x08-recursion
  */
